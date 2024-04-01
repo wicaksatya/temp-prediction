@@ -17,7 +17,7 @@ The model's performance is evaluated using the following metrics:
 - The model does not appear to be overfitting, as it generalizes well to unseen data.
 
 ## Customization
-Viewers are encouraged to adjust and improve the code. Feel free to experiment with different models, hyperparameters, and feature sets to enhance the model's performance.
+You are encouraged to adjust and improve the code. Feel free to experiment with different models, hyperparameters, and feature sets to enhance the model's performance.
 
 ## Note
-For more specific details about the project, please refer to the actual content of the `weather_prediction.ipynb` notebook or other files within the repository.
+For more specific details about the project, please refer to the actual content of the `temp-pred.ipynb` notebook or other files within the repository.
