@@ -1,7 +1,7 @@
 # Temperature Prediction Project
 
 ## Overview
-This project is focused on creating a machine learning model to predict temperatures. The model is trained using a Random Forest regressor and evaluated against a baseline model to ensure accuracy and prevent overfitting.
+This project is focused on creating a machine learning model to predict average temperatures. The model is trained using a Random Forest regressor and evaluated against a baseline model to ensure accuracy and prevent overfitting.
 
 ## Contents
 - `temp-pred.ipynb`: A Jupyter notebook containing the Python code for the temperature prediction model.
